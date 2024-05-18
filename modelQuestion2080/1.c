@@ -1,6 +1,7 @@
 /*
 A computer program is a set of instructions written in a programming language tha a computer can execute to perform specific tasks or solve problems. These instructions direct the computer's hardware to carry out various operations such as calculations, data processing, input/output handling, and controlling other devices.
 */
+
 /*
 An algorithm to calculate the HCF of two numbers entered by the user.
 1: Start

@@ -1,0 +1,1 @@
+cd "c:\Users\sabin\OneDrive\Desktop\learningC\fileHandling\" ; if ($?) { gcc stringInputOutput.c -o stringInputOutput } ; if ($?) { .\stringInputOutput }
